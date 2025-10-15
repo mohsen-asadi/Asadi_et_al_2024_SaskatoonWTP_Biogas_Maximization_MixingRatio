@@ -1,0 +1,1 @@
+This code shows the application of XGBoost and Bayesian Optimization to optimize the mixing ratio of fermenter sludge and thickened-waste activated sludge to enhance biogas production at municipal wastewater treatment plants.
